@@ -1,5 +1,5 @@
+//Q1.b Write a C program to calculate area of a rectangle: Using input coded inputs.
 #include<stdio.h>
-
 int main(){
     int L;
     printf("Enter Lenght of the rectangle\t");

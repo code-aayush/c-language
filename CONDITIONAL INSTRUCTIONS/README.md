@@ -1,4 +1,4 @@
-# Chapter 1: Variables, Constants & Keywords
+# Chapter 2: Conditional Instructions
 
 ## Questions:
 1. Write a program to determine whether a student has passed or failed. To pass, a
